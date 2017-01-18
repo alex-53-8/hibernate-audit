@@ -1,0 +1,10 @@
+<dataset>
+    <address id="1" city="city 1" zipCode="zip code 1" address="address 1"/>
+    <address id="2" city="city 2" zipCode="zip code 2" address="address 2"/>
+
+    <contact id="1" name="name 1" />
+    <contact id="2" name="name 2" />
+
+    <company id="1" address_id="1" contact_id="1" name="Company name 1" />
+    <company id="2" address_id="2" contact_id="2" name="Company name 2" />
+</dataset>
