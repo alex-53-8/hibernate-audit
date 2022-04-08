@@ -16,7 +16,7 @@
         <version.spring>4.1.6.RELEASE</version.spring>
         <version.hibernate>4.0.1.Final</version.hibernate>
         <version.hibernate.slf4j>1.6.1</version.hibernate.slf4j>
-        <version.junit>4.12</version.junit>
+        <version.junit>4.13.1</version.junit>
         <version.dbunit>2.4.9</version.dbunit>
         <version.hsqldb>2.3.4</version.hsqldb>
     </properties>
