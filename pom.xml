@@ -13,7 +13,7 @@
         <java.version>1.8</java.version>
         <version.plugin.maven-compiler>3.1</version.plugin.maven-compiler>
         <version.postgresql>42.2.25</version.postgresql>
-        <version.spring>5.3.18</version.spring>
+        <version.spring>5.3.26</version.spring>
         <version.hibernate>5.4.24.Final</version.hibernate>
         <version.hibernate.slf4j>1.6.1</version.hibernate.slf4j>
         <version.junit>4.13.1</version.junit>
