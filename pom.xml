@@ -18,7 +18,7 @@
         <version.hibernate.slf4j>1.6.1</version.hibernate.slf4j>
         <version.junit>4.13.1</version.junit>
         <version.dbunit>2.4.9</version.dbunit>
-        <version.hsqldb>2.3.4</version.hsqldb>
+        <version.hsqldb>2.7.1</version.hsqldb>
     </properties>
 
     <build>
